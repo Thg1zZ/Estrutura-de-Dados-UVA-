@@ -14,11 +14,8 @@ int main() {
 		printf("4-Milkshake\n");
 		printf("5-Sair");
 	
-		
-	
-	
-       
-	    printf("\nEscolha opcao:");
+
+printf("\nEscolha opcao:");
 		scanf("%d", &produto);
 		
         valorTotal=0;
